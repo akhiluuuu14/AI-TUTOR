@@ -1,0 +1,6 @@
+{
+  "name": "Hired AI",
+  "description": "Interactive career development platform offering resume analysis, ATS scoring, skill recommendations, mock interviews, and AI-powered learning roadmaps.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
